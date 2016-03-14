@@ -1,2 +1,3 @@
-# crud-abc
-Comunidade de Desenvolvedores Web do Grande ABC
+# CRUD-ABC
+
+Comunidade de Desenvolvedores Back End do Grande ABC
